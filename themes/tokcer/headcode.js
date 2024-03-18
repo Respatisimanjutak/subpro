@@ -20,7 +20,7 @@ document.write('</div>');
 document.write('</noscript>');
 
 ///// CSS /////
-document.write("<link media='all' href='https://git.teknodrem.com/themez/style.css' rel='stylesheet' />");
+document.write("<link media='all' href='https://git.teknodrem.com/themes/tokcer/style.css' rel='stylesheet' />");
 
 ///// Canonical /////
 document.write('<link rel="canonical" href="' + window.location.href + '" />');
