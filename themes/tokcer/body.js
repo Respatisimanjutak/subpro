@@ -4,7 +4,7 @@ document.write('<div style="text-align:center;display:block;max-width:729px;heig
 
 //Paste Iklan Disini
 
-document.write('<script type="text/javascript" src="https://git.teknodrem.com/adz/banner-loading.js"><\/script>');
+document.write('<script type="text/javascript" src="https://git.teknodrem.com/ads/banner-loading.js"><\/script>');
 
 // Batas Iklan
 
